@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "877914180470",
+    "firebase_url": "https://app-ave-6d625.firebaseio.com",
+    "project_id": "app-ave-6d625",
+    "storage_bucket": "app-ave-6d625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877914180470:android:574d0d0ae17c6344",
+        "android_client_info": {
+          "package_name": "com.muniguate.adminvulnerabilidad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877914180470-hlh84290kj26kjumlk2e8f664bcsne8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhYqQBDUwP8NunkkCSPph7NZwbrnu-j5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877914180470:android:a25915a16d09948c",
+        "android_client_info": {
+          "package_name": "com.ave2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877914180470-hlh84290kj26kjumlk2e8f664bcsne8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhYqQBDUwP8NunkkCSPph7NZwbrnu-j5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

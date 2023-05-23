@@ -1,0 +1,51 @@
+{
+  "name": "proyecto_ave2",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "native-base": "^2.10.0",
+    "react": "16.6.3",
+    "react-native": "0.58.3",
+    "react-native-af-video-player": "^0.2.1",
+    "react-native-awesome-alerts": "^1.2.0",
+    "react-native-elements": "0.19.1",
+    "react-native-elevated-view": "0.0.6",
+    "react-native-firebase": "^5.2.1",
+    "react-native-flash-message": "^0.1.11",
+    "react-native-gifted-chat": "^0.7.2",
+    "react-native-image-picker": "^0.28.0",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-modal": "^7.0.2",
+    "react-native-onboarding-swiper": "^1.1.0",
+    "react-native-orientation-loading-overlay": "^0.1.4",
+    "react-native-picker-select": "^5.2.3",
+    "react-native-progress-circle": "^2.0.1",
+    "react-native-prompt-android": "^0.3.5",
+    "react-native-prompt-crossplatform": "^1.6.1",
+    "react-native-read-more-text": "^1.1.0",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-sectioned-multi-select": "^0.6.5",
+    "react-native-swipeable": "^0.6.0",
+    "react-native-touch-id": "^4.3.0",
+    "react-native-video": "^4.4.1",
+    "react-native-view-more-text": "^2.0.1",
+    "react-native-voice": "^0.2.6",
+    "react-navigation": "^2.14.2",
+    "react-timer-mixin": "^0.13.4"
+  },
+  "devDependencies": {
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "24.0.0",
+    "graceful-fs": "^4.2.4",
+    "jest": "24.0.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

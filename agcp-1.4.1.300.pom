@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.huawei.agconnect</groupId>
+  <artifactId>agcp</artifactId>
+  <version>1.4.1.300</version>
+  <description>
+gitUrl: https://git.huawei.com/application_market_business/AppGalleryConnectSDK/Android-Client-SDK.git
+branch: AM/AppGallery/Main
+commitId: 1d0f7b8fb0e69c8ce5b5d808aa374ae5ed08f626
+  </description>
+  <dependencies>
+    <dependency>
+      <groupId>com.huawei.agconnect</groupId>
+      <artifactId>agconnect-crash-symbol-lib</artifactId>
+      <version>1.4.1.300</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>
